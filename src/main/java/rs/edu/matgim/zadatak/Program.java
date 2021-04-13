@@ -1,7 +1,7 @@
 package rs.edu.matgim.zadatak;
 
 public class Program {
-
+//Ponovo poslato.
     public static void main(String[] args) {
 
         DB _db = new DB();
