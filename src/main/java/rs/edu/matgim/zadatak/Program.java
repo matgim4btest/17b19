@@ -5,7 +5,11 @@ public class Program {
     public static void main(String[] args) {
 
         DB _db = new DB();
-        _db.printFilijala();
+        _db.printNotUsedRacun();
+        _db.prikazSvihRacuna();
+        System.out.println(_db.zadatak(5, 3));
+        _db.prikazSvihRacuna();
         
     }
 }
+ 
